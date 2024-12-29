@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>GoTickets - Backend spring boot project with producer &amp; consumer</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<variableList>
+		<variable>
+			<name>Gotickets_consumer</name>
+			<value>file:/C:/Users/kiruba/eclipse-workspace/GoTickets%20-%20Backend%20spring%20boot%20project%20with%20producer%20&amp;%20consumer/GoTickets</value>
+		</variable>
+		<variable>
+			<name>Showtimez</name>
+			<value>file:/C:/Users/kiruba/eclipse-workspace/GoTickets%20-%20Backend%20spring%20boot%20project%20with%20producer%20&amp;%20consumer/ShowTimez</value>
+		</variable>
+	</variableList>
+</projectDescription>
